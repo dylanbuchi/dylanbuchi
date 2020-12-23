@@ -11,7 +11,7 @@
 
  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylanbuchi/)
 	
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dylanbuchi&show_icons=true&locale=en&layout=compact&langs_count=8" alt="dylanbuchi" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dylanbuchi&show_icons=true&locale=en&layout=compact&langs_count=6" alt="dylanbuchi" />
 
 <h3 align="left">Languages and Tools:</h3>
 
