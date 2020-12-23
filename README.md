@@ -21,7 +21,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dylanbuchi&count_private=true" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dylanbuchi&" alt="dylanbuchi" />
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dylanbuchi)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@dylanbuchi" />
 
 
 <h3 align="left">Support:</h3>
