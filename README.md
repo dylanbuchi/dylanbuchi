@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dylan Buchi</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dylanbuchi&label=Profile%20views&color=0e75b6&style=flat" alt="dylanbuchi" /> </p>
-
+<h3 align="center">Full Stack Developer </h3>
 
 - 📖 I’m currently learning **React.js**
 
 - 👨‍💻 My best projects are available at [https://dylanbuchi.pythonanywhere.com](https://dylanbuchi.pythonanywhere.com)
 
-- 📫 How to reach me **devybuchi@gmail.com**
+- 📫 You can reach me at **devybuchi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
