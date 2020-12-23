@@ -3,7 +3,7 @@
 
 - 📖 I’m currently learning **React.js**
 
-- 👨‍💻 My best projects are available at [https://dylanbuchi.pythonanywhere.com](https://dylanbuchi.pythonanywhere.com)
+- 👨‍💻 My best projects are available at [https://dylanbuchi.pythonanywhere.com](https://dylanbuchi.pythonanywhere.com/works.html)
 
 - 📫 You can reach me at **devybuchi@gmail.com**
 
