@@ -18,6 +18,8 @@
 <p> </>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dylanbuchi&show_icons=true&locale=en&layout=compact&langs_count=6" alt="dylanbuchi" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@dylanbuchi&v=2" />
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dylanbuchi&count_private=true" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dylanbuchi&" alt="dylanbuchi" />
 
