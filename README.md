@@ -32,15 +32,6 @@
             height="40"
         />
     </a>
-    <!-- dart -->
-    <a href="https://dart.dev" target="_blank">
-        <img
-            src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-            alt="dart"
-            width="40"
-            height="40"
-        />
-    </a>
     <!-- JavaScript -->
     <a
         href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
@@ -97,33 +88,6 @@
             width="40"
             height="40"
         />
-   </a>
-    <!-- NodeJS -->
-    <a href="https://nodejs.org" target="_blank">
-        <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs"
-            width="40"
-            height="40"
-        />
-    </a>
-    <!-- ExpressJS -->
-    <a href="https://expressjs.com" target="_blank">
-        <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg"
-            alt="express"
-            width="40"
-            height="40"
-        />
-    </a>
-    <!-- BabelJS -->
-    <a href="https://babeljs.io/" target="_blank">
-        <img
-            src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
-            alt="babel"
-            width="40"
-            height="40"
-        />
     </a>
     <!-- Bootstrap -->
     <a href="https://getbootstrap.com" target="_blank">
@@ -134,41 +98,11 @@
             height="40"
         />
     </a>
-
-    <!-- Bash -->
-    <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <!-- dart -->
+    <a href="https://dart.dev" target="_blank">
         <img
-            src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
-            alt="bash"
-            width="40"
-            height="40"
-        />
-    </a>
-
-    <!-- Django -->
-    <a href="https://www.djangoproject.com/" target="_blank">
-        <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg"
-            alt="django"
-            width="40"
-            height="40"
-        />
-    </a>
-
-    <!-- Firebase -->
-    <a href="https://firebase.google.com/" target="_blank">
-        <img
-            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-            alt="firebase"
-            width="40"
-            height="40"
-        />
-    </a>
-    <!-- Flask -->
-    <a href="https://flask.palletsprojects.com/" target="_blank">
-        <img
-            src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-            alt="flask"
+            src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
+            alt="dart"
             width="40"
             height="40"
         />
@@ -178,6 +112,24 @@
         <img
             src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
             alt="flutter"
+            width="40"
+            height="40"
+        />
+    </a>
+    <!-- Bash -->
+    <a href="https://www.gnu.org/software/bash/" target="_blank">
+        <img
+            src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+            alt="bash"
+            width="40"
+            height="40"
+        />
+    </a>
+    <!-- Firebase -->
+    <a href="https://firebase.google.com/" target="_blank">
+        <img
+            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+            alt="firebase"
             width="40"
             height="40"
         />
@@ -209,7 +161,51 @@
             height="40"
         />
     </a>
-
+    <!-- Flask -->
+    <a href="https://flask.palletsprojects.com/" target="_blank">
+        <img
+            src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
+            alt="flask"
+            width="40"
+            height="40"
+        />
+    </a>
+    <!-- Django -->
+    <a href="https://www.djangoproject.com/" target="_blank">
+        <img
+            src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg"
+            alt="django"
+            width="40"
+            height="40"
+        />
+    </a>
+    <!-- NodeJS -->
+    <a href="https://nodejs.org" target="_blank">
+        <img
+            src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
+            alt="nodejs"
+            width="40"
+            height="40"
+        />
+    </a>
+    <!-- ExpressJS -->
+    <a href="https://expressjs.com" target="_blank">
+        <img
+            src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg"
+            alt="express"
+            width="40"
+            height="40"
+        />
+    </a>
+    <!-- BabelJS -->
+    <a href="https://babeljs.io/" target="_blank">
+        <img
+            src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
+            alt="babel"
+            width="40"
+            height="40"
+        />
+    </a>
     <!-- MongoDB -->
     <a href="https://www.mongodb.com/" target="_blank">
         <img
@@ -228,7 +224,6 @@
             height="40"
         />
     </a>
-
     <!-- POSTGRESSQL -->
     <a href="https://www.postgresql.org" target="_blank">
         <img
@@ -239,7 +234,6 @@
         />
     </a>
 </p>
-
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dylanbuchi&show_icons=true&locale=en&layout=compact&langs_count=6" alt="dylanbuchi" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@dylanbuchi&langs_count=3&v=2" />
