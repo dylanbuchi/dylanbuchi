@@ -62,7 +62,7 @@
             height="40"
         />
     </a>
-    <!-- Css3 -->
+    <!-- Css -->
     <a href="https://www.w3schools.com/css/" target="_blank">
         <img
             src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg"
