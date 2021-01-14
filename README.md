@@ -3,7 +3,7 @@
 
 - 📖 I’m currently doing the **100 days of code** challenge
 
-- 👨‍💻 My best projects are available at [https://dylanbuchi.pythonanywhere.com](https://dylanbuchi.pythonanywhere.com/works.html)
+- 👨‍💻 My best projects are available at [https://dylanbuchi.pythonanywhere.com](https://dylanbuchi.pythonanywhere.com/projects.html)
 
 - 📧 You can reach me at **devybuchi@gmail.com**
 
