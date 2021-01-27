@@ -55,7 +55,6 @@
             height="40"
         />
     </a>
-	
     <!-- HTML5 -->
     <a href="https://www.w3.org/html/" target="_blank">
         <img
