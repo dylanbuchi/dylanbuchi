@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dylan Buchi</h1>
 <h3 align="center">Full Stack Developer </h3>
 
-- 📖 I’m currently learning **SQL, databases**
+- 📖 I’m currently focusing on **Python/Django**
 
 - 👨‍💻 My projects are available at [dylanbuchi.pythonanywhere.com](https://dylanbuchi.pythonanywhere.com/projects.html)
 
