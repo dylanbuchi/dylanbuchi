@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dylan Buchi</h1>
 <h3 align="center">Full Stack Developer </h3>
 
-- 📖 I’m currently focusing on **Python/Django**
+
 
 - 👨‍💻 My projects are available at [dylanbuchi.pythonanywhere.com](https://dylanbuchi.pythonanywhere.com/projects.html)
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-    <!-- PYTHON -->
+    <!-- PYTHON  [- 📖 I’m currently focusing on **Python/Django**](url)****-->
     <a href="https://www.python.org" target="_blank">
         <img
             src="https://www.vectorlogo.zone/logos/python/python-icon.svg"
