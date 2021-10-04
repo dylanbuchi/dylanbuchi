@@ -4,9 +4,9 @@
 
 
 
-- 👨‍💻 My projects are available at [dylanbuchi.pythonanywhere.com](https://dylanbuchi.pythonanywhere.com/projects.html)
+- 👨‍💻 My projects are available at: [dylanbuchi.pythonanywhere.com](https://dylanbuchi.pythonanywhere.com/projects.html)
 
-- 📧 You can reach me at **devybuchi@gmail.com**
+- 📧 You can reach me at: **devybuchi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
