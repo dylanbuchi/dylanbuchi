@@ -239,13 +239,20 @@
 </p>
  <!-- WAKATIME STATS
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@dylanbuchi&layout=compact&v=2" />-->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dylanbuchi&show_icons=true&locale=en&layout=compact&langs_count=6" alt="dylanbuchi" />
+<!-- 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dylanbuchi&show_icons=true&locale=en&layout=compact&langs_count=6&exclude_repo=francis-portfolio" alt="dylanbuchi" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dylanbuchi&" alt="dylanbuchi" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dylanbuchi" alt="dylanbuchi" />
+ -->
 
 
+<a href="https://github.com/dylanbuchi">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dylanbuchi" alt="dylanbuchi" />
 
-
+</a>
+<a href="https://github.com/dylanbuchi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dylanbuchi&show_icons=true&locale=en&layout=compact&langs_count=6&exclude_repo=francis-portfolio" alt="dylanbuchi" />
+</a>
 
 
 
