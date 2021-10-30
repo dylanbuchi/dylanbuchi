@@ -246,13 +246,15 @@
  -->
 
 <div>
-<a href="https://github.com/dylanbuchi">
-  <img width=420 height=165 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dylanbuchi&theme=&calm" alt="dylanbuchi" />
-
-
-<a href="https://github.com/dylanbuchi">
+	
+<a  href="https://github.com/dylanbuchi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dylanbuchi&show_icons=true&locale=en&layout=compact&langs_count=6&exclude_repo=francis-portfolio" alt="dylanbuchi" />
 </a>
+	
+<a href="https://github.com/dylanbuchi">
+  <img width=420 height=165 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dylanbuchi&theme=calm" alt="dylanbuchi" />
+
+
 
 
 
