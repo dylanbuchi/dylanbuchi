@@ -247,7 +247,7 @@
 
 
 <a href="https://github.com/dylanbuchi">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dylanbuchi" alt="dylanbuchi" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dylanbuchi&hide_border=true&cache_seconds=2000" alt="dylanbuchi" />
 
 </a>
 <a href="https://github.com/dylanbuchi">
