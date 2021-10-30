@@ -251,7 +251,7 @@
 
 </a>
 <a href="https://github.com/dylanbuchi">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dylanbuchi&count_private=true" alt="dylanbuchi" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dylanbuchi&count_private=true" alt="dylanbuchi" />
 
 </a>
 
