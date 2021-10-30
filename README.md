@@ -247,7 +247,7 @@
 
 <div>
 <a href="https://github.com/dylanbuchi">
-  <img width=430 height=165 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dylanbuchi&theme=&calm" alt="dylanbuchi" />
+  <img width=420 height=165 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dylanbuchi&theme=&calm" alt="dylanbuchi" />
 
 
 <a href="https://github.com/dylanbuchi">
