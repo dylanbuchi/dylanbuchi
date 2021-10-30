@@ -245,11 +245,11 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dylanbuchi" alt="dylanbuchi" />
  -->
 
-
+<div>
 <a href="https://github.com/dylanbuchi">
-  <img width=440 height=165 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dylanbuchi&theme=&calm" alt="dylanbuchi" />
+  <img width=430 height=165 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dylanbuchi&theme=&calm" alt="dylanbuchi" />
 
-</a>
+
 <a href="https://github.com/dylanbuchi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dylanbuchi&show_icons=true&locale=en&layout=compact&langs_count=6&exclude_repo=francis-portfolio" alt="dylanbuchi" />
 </a>
