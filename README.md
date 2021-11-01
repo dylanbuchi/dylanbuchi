@@ -252,7 +252,7 @@
 </a>
 	
 <a href="https://github.com/dylanbuchi">
-  <img width=420 height=165 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dylanbuchi&theme=calm" alt="dylanbuchi" />
+  <img width=420 height=165 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dylanbuchi&theme=calm&fire=ECAD49&sideLabels=ECAD49&currStreakNum=F3C92A" alt="dylanbuchi" />
 
 
 
