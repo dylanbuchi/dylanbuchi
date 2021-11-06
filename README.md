@@ -248,7 +248,7 @@
 <div>
 	
 <a  href="https://github.com/dylanbuchi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dylanbuchi&show_icons=true&locale=en&layout=compact&langs_count=6&exclude_repo=francis-portfolio" alt="dylanbuchi" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dylanbuchi&show_icons=true&locale=en&layout=compact&langs_count=6&exclude_repo=francis-portfolio&theme=calm" alt="dylanbuchi" />
 </a>
 	
 <a href="https://github.com/dylanbuchi">
