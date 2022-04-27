@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dylan Buchi</h1>
 
-<h3 align="center">Full Stack Developer </h3>
+<h3 align="center">Software Engineer</h3>
 
 
 
@@ -15,7 +15,7 @@
  
 	
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills:</h3>
 <p align="center">
     <!-- PYTHON  [- 📖 I’m currently focusing on **Python/Django**](url)****-->
     <a href="https://www.python.org" target="_blank">
@@ -35,23 +35,47 @@
             height="40"
         />
     </a>
-    <!-- JavaScript -->
-    <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"
-    >
+		<!-- C -->
+    <a href="https://www.postgresql.org" target="_blank">
         <img
-            src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
-            alt="javascript"
+            src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"
+            alt="postgresql"
             width="40"
             height="40"
         />
     </a>
-    <!-- TypeScript -->
-    <a href="https://www.typescriptlang.org/" target="_blank">
+		<!-- C++ -->
+    <a href="https://www.postgresql.org" target="_blank">
         <img
-            src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"
-            alt="typescript"
+            src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"
+            alt="postgresql"
+            width="40"
+            height="40"
+        />
+    </a>
+		<!-- RUST -->
+    <a href="https://www.postgresql.org" target="_blank">
+        <img
+            src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg"
+            alt="postgresql"
+            width="40"
+            height="40"
+        />
+    </a>
+		<!-- SOLIDITY -->
+    <a href="https://www.postgresql.org" target="_blank">
+        <img
+            src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg"
+            alt="postgresql"
+            width="40"
+            height="40"
+        />
+    </a>
+	<!-- Bash -->
+    <a href="https://www.gnu.org/software/bash/" target="_blank">
+        <img
+            src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+            alt="bash"
             width="40"
             height="40"
         />
@@ -74,25 +98,19 @@
             height="40"
         />
     </a>
-    <!-- Sass -->
-    <a href="https://sass-lang.com" target="_blank">
+	    <!-- JavaScript -->
+    <a
+        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+        target="_blank"
+    >
         <img
-            src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
-            alt="sass"
+            src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
+            alt="javascript"
             width="40"
             height="40"
         />
     </a>
-    <!-- REACTJS -->
-    <a href="https://reactjs.org/" target="_blank">
-        <img
-            src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
-            alt="react"
-            width="40"
-            height="40"
-        />
-    </a>
-    <!-- Bootstrap -->
+	    <!-- Bootstrap -->
     <a href="https://getbootstrap.com" target="_blank">
         <img
             src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"
@@ -101,10 +119,19 @@
             height="40"
         />
     </a>
+    <!-- REACTJS -->
+    <a href="https://reactjs.org/" target="_blank">
+        <img
+            src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
+            alt="react"
+            width="40"
+            height="40"
+        />
+    </a>
     <!-- dart -->
     <a href="https://dart.dev" target="_blank">
         <img
-            src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
+            src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"
             alt="dart"
             width="40"
             height="40"
@@ -113,26 +140,8 @@
     <!-- Flutter -->
     <a href="https://flutter.dev" target="_blank">
         <img
-            src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
+            src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"
             alt="flutter"
-            width="40"
-            height="40"
-        />
-    </a>
-    <!-- Bash -->
-    <a href="https://www.gnu.org/software/bash/" target="_blank">
-        <img
-            src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
-            alt="bash"
-            width="40"
-            height="40"
-        />
-    </a>
-    <!-- Firebase -->
-    <a href="https://firebase.google.com/" target="_blank">
-        <img
-            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-            alt="firebase"
             width="40"
             height="40"
         />
@@ -142,24 +151,6 @@
         <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
             alt="git"
-            width="40"
-            height="40"
-        />
-    </a>
-    <!-- GraphQL -->
-    <a href="https://graphql.org" target="_blank">
-        <img
-            src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-            alt="graphql"
-            width="40"
-            height="40"
-        />
-    </a>
-    <!-- Heroku -->
-    <a href="https://heroku.com" target="_blank">
-        <img
-            src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-            alt="heroku"
             width="40"
             height="40"
         />
@@ -176,7 +167,7 @@
     <!-- Django -->
     <a href="https://www.djangoproject.com/" target="_blank">
         <img
-            src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg"
+            src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"
             alt="django"
             width="40"
             height="40"
@@ -185,26 +176,8 @@
     <!-- NodeJS -->
     <a href="https://nodejs.org" target="_blank">
         <img
-            src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
+            src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"
             alt="nodejs"
-            width="40"
-            height="40"
-        />
-    </a>
-    <!-- ExpressJS -->
-    <a href="https://expressjs.com" target="_blank">
-        <img
-            src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"
-            alt="express"
-            width="40"
-            height="40"
-        />
-    </a>
-    <!-- BabelJS -->
-    <a href="https://babeljs.io/" target="_blank">
-        <img
-            src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
-            alt="babel"
             width="40"
             height="40"
         />
@@ -212,30 +185,13 @@
     <!-- MongoDB -->
     <a href="https://www.mongodb.com/" target="_blank">
         <img
-            src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
+            src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg"
             alt="mongodb"
             width="40"
             height="40"
         />
     </a>
-    <!-- MYSQL -->
-    <a href="https://www.mysql.com/" target="_blank">
-        <img
-            src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql"
-            width="40"
-            height="40"
-        />
-    </a>
-    <!-- POSTGRESSQL -->
-    <a href="https://www.postgresql.org" target="_blank">
-        <img
-            src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql"
-            width="40"
-            height="40"
-        />
-    </a>
+
 </p>
  <!-- WAKATIME STATS
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@dylanbuchi&layout=compact&v=2" />-->
