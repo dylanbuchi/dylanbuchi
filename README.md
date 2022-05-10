@@ -18,55 +18,55 @@
 <h3 align="left">Skills:</h3>
 <p align="center">
     <!-- PYTHON  [- 📖 I’m currently focusing on **Python/Django**](url)****-->
-    <a href="https://www.python.org" target="_blank">
+    <a href="https://docs.python.org/3/" target="_blank">
         <img
             src="https://www.vectorlogo.zone/logos/python/python-icon.svg"
-            alt="python"
+            alt="Python"
             width="40"
             height="40"
         />
     </a>
     <!-- Java -->
-    <a href="https://www.java.com" target="_blank">
+    <a href="https://docs.oracle.com/en/java/javase/" target="_blank">
         <img
             src="https://www.vectorlogo.zone/logos/java/java-icon.svg"
-            alt="java"
+            alt="Java"
             width="40"
             height="40"
         />
     </a>
 		<!-- C -->
-    <a href="https://www.postgresql.org" target="_blank">
+    <a href="https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank">
         <img
             src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"
-            alt="postgresql"
+            alt="C"
             width="40"
             height="40"
         />
     </a>
 		<!-- C++ -->
-    <a href="https://www.postgresql.org" target="_blank">
+    <a href="https://en.cppreference.com/w/" target="_blank">
         <img
             src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"
-            alt="postgresql"
+            alt="C++"
             width="40"
             height="40"
         />
     </a>
 		<!-- RUST -->
-    <a href="https://www.postgresql.org" target="_blank">
+    <a href="https://doc.rust-lang.org/reference/index.html" target="_blank">
         <img
             src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg"
-            alt="postgresql"
+            alt="Rust"
             width="40"
             height="40"
         />
     </a>
 		<!-- SOLIDITY -->
-    <a href="https://www.postgresql.org" target="_blank">
+    <a href="https://docs.soliditylang.org/" target="_blank">
         <img
             src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg"
-            alt="postgresql"
+            alt="Solidity"
             width="40"
             height="40"
         />
