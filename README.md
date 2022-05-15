@@ -54,7 +54,7 @@
         />
     </a>
 			<!-- GO -->
-    <a href="https://en.cppreference.com/w/" target="_blank">
+    <a href="https://go.dev/" target="_blank">
         <img
             src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"
             alt="Go"
