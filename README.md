@@ -53,6 +53,15 @@
             height="40"
         />
     </a>
+			<!-- GO -->
+    <a href="https://en.cppreference.com/w/" target="_blank">
+        <img
+            src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"
+            alt="Go"
+            width="40"
+            height="40"
+        />
+    </a>
 		<!-- RUST -->
     <a href="https://doc.rust-lang.org/reference/index.html" target="_blank">
         <img
