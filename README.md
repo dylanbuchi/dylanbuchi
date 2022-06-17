@@ -119,6 +119,18 @@
             height="40"
         />
     </a>
+	<!-- TypeScript -->
+    <a
+        href="https://www.typescriptlang.org/docs/"
+        target="_blank"
+    >
+        <img
+            src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
+            alt="typescript"
+            width="40"
+            height="40"
+        />
+    </a>
 	    <!-- Bootstrap -->
     <a href="https://getbootstrap.com" target="_blank">
         <img
