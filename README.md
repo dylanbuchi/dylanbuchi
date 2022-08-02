@@ -227,10 +227,9 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dylanbuchi" alt="dylanbuchi" />
  -->
 
-<div align="center">
+<div style="display: flex; justify-content: center">
   <a href="https://github.com/dylanbuchi">
     <img
-      align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanbuchi&show_icons=true&locale=en&layout=compact&langs_count=6&exclude_repo=francis-portfolio&theme=calm&hide=html,css,jupyter notebook,objective-c"
       alt="dylanbuchi"
     />
@@ -240,7 +239,6 @@
     <img
       width="420"
       height="165"
-      align="center"
       src="https://github-readme-streak-stats.herokuapp.com/?user=dylanbuchi&count_private=true&theme=calm&fire=ECAD49&sideLabels=ECAD49&currStreakNum=F3C92A"
       alt="dylanbuchi"
     />
