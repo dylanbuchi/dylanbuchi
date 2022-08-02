@@ -218,16 +218,8 @@
     />
   </a>
 </div>
-
-<!-- WAKATIME STATS
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@dylanbuchi&layout=compact&v=2" />-->
-<!-- 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dylanbuchi&show_icons=true&locale=en&layout=compact&langs_count=6&exclude_repo=francis-portfolio" alt="dylanbuchi" />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dylanbuchi" alt="dylanbuchi" />
- -->
-
-<div style="display: flex; justify-content: center">
+<br>
+<div align="center">
   <a href="https://github.com/dylanbuchi">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanbuchi&show_icons=true&locale=en&layout=compact&langs_count=6&exclude_repo=francis-portfolio&theme=calm&hide=html,css,jupyter notebook,objective-c"
@@ -244,3 +236,11 @@
     />
   </a>
 </div>
+
+<!-- WAKATIME STATS
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@dylanbuchi&layout=compact&v=2" />-->
+<!-- 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dylanbuchi&show_icons=true&locale=en&layout=compact&langs_count=6&exclude_repo=francis-portfolio" alt="dylanbuchi" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dylanbuchi" alt="dylanbuchi" />
+ -->
