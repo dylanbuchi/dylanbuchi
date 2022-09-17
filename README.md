@@ -22,73 +22,58 @@
       height="40"
     />
   </a>
-  <!-- Java -->
-  <a href="https://docs.oracle.com/en/java/javase/" target="_blank">
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/docs/" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/java/java-icon.svg"
-      alt="Java"
+      src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
       width="40"
       height="40"
     />
   </a>
-  <!-- C -->
+    <!-- JavaScript -->
+   <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    >
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+    <!-- NodeJS -->
+  <a href="https://nodejs.org" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
+    <!-- REACTJS -->
+  <a href="https://reactjs.org/" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+    <!-- NEXT JS -->
   <a
-    href="https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-170"
+    href="https://nextjs.org/"
     target="_blank"
   >
     <img
-      src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"
-      alt="C"
+      src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"
+      alt="NextJs"
       width="40"
       height="40"
     />
   </a>
-  <!-- C++ -->
-  <a href="https://en.cppreference.com/w/" target="_blank">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"
-      alt="C++"
-      width="40"
-      height="40"
-    />
-  </a>
-  <!-- GO -->
-  <a href="https://go.dev/" target="_blank">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"
-      alt="Go"
-      width="40"
-      height="40"
-    />
-  </a>
-  <!-- RUST -->
-  <a href="https://doc.rust-lang.org/reference/index.html" target="_blank">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg"
-      alt="Rust"
-      width="40"
-      height="40"
-    />
-  </a>
-  <!-- SOLIDITY -->
-  <a href="https://docs.soliditylang.org/" target="_blank">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg"
-      alt="Solidity"
-      width="40"
-      height="40"
-    />
-  </a>
-  <!-- Bash -->
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
-      alt="bash"
-      width="40"
-      height="40"
-    />
-  </a>
-  <!-- HTML5 -->
+    <!-- HTML5 -->
   <a href="https://www.w3.org/html/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"
@@ -106,6 +91,15 @@
       height="40"
     />
   </a>
+    <!-- TAILWIND -->
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"
+      alt="Tailwind"
+      width="40"
+      height="40"
+    />
+  </a>
   <!-- Sass -->
   <a href="https://sass-lang.com/" target="_blank">
     <img
@@ -115,27 +109,7 @@
       height="40"
     />
   </a>
-  <!-- JavaScript -->
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/docs/" target="_blank">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
+
   <!-- Bootstrap -->
   <a href="https://getbootstrap.com" target="_blank">
     <img
@@ -145,11 +119,31 @@
       height="40"
     />
   </a>
-  <!-- REACTJS -->
-  <a href="https://reactjs.org/" target="_blank">
+
+  <!-- Java -->
+  <a href="https://docs.oracle.com/en/java/javase/" target="_blank">
     <img
-      src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
-      alt="react"
+      src="https://www.vectorlogo.zone/logos/java/java-icon.svg"
+      alt="Java"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <!-- C++ -->
+  <a href="https://en.cppreference.com/w/" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"
+      alt="C++"
+      width="40"
+      height="40"
+    />
+  </a>
+  <!-- Bash -->
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+      alt="bash"
       width="40"
       height="40"
     />
@@ -199,15 +193,7 @@
       height="40"
     />
   </a>
-  <!-- NodeJS -->
-  <a href="https://nodejs.org" target="_blank">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
+
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/" target="_blank">
     <img
