@@ -2,8 +2,6 @@
 
 <h3 align="center">Software Engineer</h3>
 
-
-
 - 📧 You can reach me at: **devybuchi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -209,7 +207,7 @@
 <div align="center">
   <a href="https://github.com/dylanbuchi">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanbuchi&show_icons=true&locale=en&layout=compact&langs_count=6&exclude_repo=francis-portfolio&theme=calm&hide=html,css,jupyter%20notebook,objective-c"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanbuchi&show_icons=true&locale=en&layout=compact&langs_count=6&exclude_repo=francis-portfolio&theme=calm&hide=html,jupyter%20notebook,objective-c"
       alt="dylanbuchi"
     />
   </a>
