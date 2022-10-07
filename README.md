@@ -3,7 +3,11 @@
 
 <h3 align="center">Software Engineer</h3>
 
+- 🔥 Check out my portfolio:
+[https://dylanbuchi.com](https://dylanbuchi.com)
+
 - 📧 You can reach me at: **devybuchi@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 
@@ -21,8 +25,7 @@
       height="40"
     />
   </a>
-  <!-- TypeScript - 👨‍💻 My projects are available at:
-[dylanbuchi.pythonanywhere.com](https://dylanbuchi.pythonanywhere.com/projects.html)-->
+  <!-- TypeScript - 👨‍💻 -->
   <a href="https://www.typescriptlang.org/docs/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
