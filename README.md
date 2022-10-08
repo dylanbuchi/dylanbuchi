@@ -211,7 +211,7 @@
 <div align="center">
   <a href="https://github.com/dylanbuchi">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanbuchi&show_icons=true&locale=en&layout=compact&langs_count=8&exclude_repo=francis-portfolio&theme=ayu-mirage&hide=html,jupyter%20notebook,objective-c"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanbuchi&show_icons=true&locale=en&layout=compact&langs_count=8&exclude_repo=francis-portfolio&theme=slateorange&hide=html,jupyter%20notebook,objective-c"
       alt="dylanbuchi"
     />
   </a>
@@ -220,7 +220,7 @@
     <img
       width="420"
       height="165"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=dylanbuchi&count_private=true&theme=ayu-mirage&fire=ECAD49&sideLabels=ECAD49&currStreakNum=F3C92A"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=dylanbuchi&count_private=true&theme=slateorange&fire=ECAD49&sideLabels=ECAD49&currStreakNum=F3C92A"
       alt="dylanbuchi"
     />
   </a>
