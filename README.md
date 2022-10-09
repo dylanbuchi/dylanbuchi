@@ -3,7 +3,7 @@
 
 <h3 align="center">Software Engineer</h3>
 
-- 🔥 Check out my portfolio:
+- ➡️ Check out my portfolio:
 [https://dylanbuchi.com](https://dylanbuchi.com)
 
 - 📧 You can reach me at: **devybuchi@gmail.com**
