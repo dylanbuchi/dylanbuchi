@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dylan Buchi</h1>
 
 
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Self-Taught Software Engineer</h3>
 
 - ➡️ Check out my portfolio:
 [https://dylanbuchi.com](https://dylanbuchi.com)
