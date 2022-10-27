@@ -220,7 +220,7 @@
     <img
       width="420"
       height="165"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=dylanbuchi&count_private=true&theme=slateorange&fire=ECAD49&sideLabels=ECAD49&currStreakNum=F3C92A"
+      src="https://streak-stats.demolab.com/?user=dylanbuchi&theme=slateorange&fire=ECAD49&sideLabels=ECAD49&currStreakNum=F3C92A"
       alt="dylanbuchi"
     />
   </a>
