@@ -50,7 +50,7 @@
   <a href="https://nodejs.org" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"
-      alt="nodejs"
+      alt="node.js"
       width="40"
       height="40"
     />
@@ -192,6 +192,15 @@
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"
       alt="django"
+      width="40"
+      height="40"
+    />
+  </a>
+   <!-- Express.js -->
+  <a href="https://expressjs.com/" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"
+      alt="express.js"
       width="40"
       height="40"
     />
