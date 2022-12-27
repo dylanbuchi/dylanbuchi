@@ -34,11 +34,11 @@
       height="40"
     />
   </a>
-    <!-- JavaScript -->
-   <a
+  <!-- JavaScript -->
+  <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
-    >
+  >
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
       alt="javascript"
@@ -46,7 +46,7 @@
       height="40"
     />
   </a>
-    <!-- NodeJS -->
+  <!-- NodeJS -->
   <a href="https://nodejs.org" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"
@@ -55,7 +55,7 @@
       height="40"
     />
   </a>
-    <!-- REACTJS -->
+  <!-- REACTJS -->
   <a href="https://reactjs.org/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
@@ -64,11 +64,8 @@
       height="40"
     />
   </a>
-    <!-- NEXT JS -->
-  <a
-    href="https://nextjs.org/"
-    target="_blank"
-  >
+  <!-- NEXT JS -->
+  <a href="https://nextjs.org/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"
       alt="NextJs"
@@ -76,7 +73,7 @@
       height="40"
     />
   </a>
-    <!-- HTML5 -->
+  <!-- HTML5 -->
   <a href="https://www.w3.org/html/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"
@@ -94,7 +91,7 @@
       height="40"
     />
   </a>
-    <!-- TAILWIND -->
+  <!-- TAILWIND -->
   <a href="https://tailwindcss.com/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"
@@ -196,7 +193,8 @@
       height="40"
     />
   </a>
-   <!-- Express.js -->
+
+  <!-- Express.js -->
   <a href="https://expressjs.com/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"
@@ -215,10 +213,18 @@
       height="40"
     />
   </a>
+  <!-- Nest.js -->
+  <a href="https://nestjs.com/" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg"
+      alt="nest.js"
+      width="40"
+      height="40"
+    />
+  </a>
 </div>
-<br>
+<br />
 <div align="center">
-  
   <a href="https://github.com/dylanbuchi">
     <img
       width="420"
@@ -233,7 +239,6 @@
       alt="dylanbuchi"
     />
   </a>
-
 </div>
 
 [![@dylanbuchi's Holopin board](https://holopin.io/api/user/board?user=dylanbuchi)](https://holopin.io/@dylanbuchi)
