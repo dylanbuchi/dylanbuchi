@@ -241,10 +241,8 @@
   </a>
 </div>
 
-[![@dylanbuchi's Holopin board](https://holopin.io/api/user/board?user=dylanbuchi)](https://holopin.io/@dylanbuchi)
-
-
 <!-- WAKATIME STATS
+[![@dylanbuchi's Holopin board](https://holopin.io/api/user/board?user=dylanbuchi)](https://holopin.io/@dylanbuchi)
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@dylanbuchi&layout=compact&v=2" />-->
 <!-- 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dylanbuchi&show_icons=true&locale=en&layout=compact&langs_count=6&exclude_repo=francis-portfolio" alt="dylanbuchi" />
