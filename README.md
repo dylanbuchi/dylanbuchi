@@ -30,10 +30,9 @@
     />   
   </a>
   </div>
-
-  <h2 align="left">Skills:</h2>
-
+  
   <details open>
+ <summary><h2 align="left">Skills:</h2></summary>
   <h3>Programming Languages</h3>
   
   <p align="left">
