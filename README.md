@@ -25,7 +25,7 @@
   </a>
   <a href="https://github.com/dylanbuchi">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanbuchi&show_icons=true&locale=en&layout=compact&langs_count=6&exclude_repo=francis-portfolio&theme=slateorange&hide=html,jupyter%20notebook,objective-c&card_width=250"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanbuchi&show_icons=true&locale=en&layout=compact&langs_count=8&exclude_repo=francis-portfolio&theme=slateorange&hide=html,jupyter%20notebook,objective-c&card_width=250"
       alt="dylanbuchi"
     />   
   </a>
