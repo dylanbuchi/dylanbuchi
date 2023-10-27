@@ -5,7 +5,7 @@
 - ➡️ Check out my portfolio:
   [https://dylanbuchi.com](https://dylanbuchi.com)
 
-- 📧 You can reach me at: **devybuchi@gmail.com**
+- 📧 You can reach me at: **dev@dylanbuchi.com**
 
 <h2 align="left">Connect with me:</h2>
 
